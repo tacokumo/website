@@ -14,5 +14,6 @@ export default defineUserConfig({
     navbar: ['/', '/user-guide/', '/operator-guide/', '/developer-guide/', '/disclaimer/'],
   }),
 
+  base: "/website/",
   bundler: viteBundler(),
 })
