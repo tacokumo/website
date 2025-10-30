@@ -1,0 +1,3 @@
+.vuepress/.cache
+.vuepress/dist
+.vuepress/.temp
