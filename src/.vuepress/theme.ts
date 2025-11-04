@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://github.com/orgs/tacokumo/teams/tacokumo-maintainer",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "assets/image/tacokumo.png",
 
   repo: "tacokumo/website",
 
@@ -87,7 +87,7 @@ export default hopeTheme({
     // flowchart: true,
 
     // install mermaid before enabling it
-    // mermaid: true,
+    mermaid: true,
 
     // playground: {
     //   presets: ["ts", "vue"],
