@@ -4,7 +4,7 @@ import { jaNavbar} from "./navbar/index.js";
 import { jaSidebar} from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://",
+  hostname: "https://tacokumo.github.io",
 
   author: {
     name: "TACOKUMO Maintainers",
