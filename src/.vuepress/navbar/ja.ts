@@ -1,8 +1,8 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const jaNavbar = navbar([
-  "/user-guide/",
-  "/operator-guide/",
-  "/developer-guide/",
-  "/disclaimer/",
+  "/website/user-guide/",
+  "/website/operator-guide/",
+  "/website/developer-guide/",
+  "/website/disclaimer/",
 ]);
