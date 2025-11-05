@@ -5,25 +5,25 @@ export const jaSidebar = sidebar({
     {
       text: "User Guide",
       icon: "book",
-      prefix: "/user-guide/",
+      prefix: "user-guide/",
       children: "structure",
     },
     {
       text: "Operator Guide",
       icon: "book",
-      prefix: "/operator-guide/",
+      prefix: "operator-guide/",
       children: "structure",
     },
     {
       text: "Developer Guide",
       icon: "book",
-      prefix: "/developer-guide/",
+      prefix: "developer-guide/",
       children: "structure",
     },
     {
       text: "Disclaimer",
       icon: "warning",
-      prefix: "/disclaimer/",
+      prefix: "disclaimer/",
       children: "structure",
     },
 
